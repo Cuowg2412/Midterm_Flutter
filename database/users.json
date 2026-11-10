@@ -1,0 +1,26 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "matkhau": "123456",
+    "hoten": "Quản trị viên",
+    "hinhanh": ""
+  },
+  {
+    "email": "nguyenvana@gmail.com",
+    "matkhau": "123456",
+    "hoten": "Nguyễn Văn A",
+    "hinhanh": "/uploads/1794300158876-369260499.jpg"
+  },
+  {
+    "email": "tranthib@gmail.com",
+    "matkhau": "abc123",
+    "hoten": "Trần Thị B",
+    "hinhanh": "/uploads/1794300148119-39168525.jpg"
+  },
+  {
+    "email": "bca@gmail.com",
+    "matkhau": "123456",
+    "hoten": "abc",
+    "hinhanh": "/uploads/1794300139805-773856977.jpg"
+  }
+]
